@@ -1,0 +1,468 @@
+Victim Age,Lat,Lng,Address,Zip code,Population
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+21.0,33.7324,-118.2857,"398 West 13th Street, Los Angeles, CA 90731, United States of America",90731,54099
+49.0,34.1347,-118.3427,"3481 Barham Boulevard, Los Angeles, CA 90068, United States of America",90068,2424
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+73.0,34.0762,-118.3441,"Chevron, Beverly Boulevard, Los Angeles, CA 90036-2829, United States of America",90036,28418
+39.0,34.0967,-118.3056,"Hobart Boulevard, Los Angeles, CA 90029-3737, United States of America",90029,28714
+48.0,34.0871,-118.3266,"Vine & Willoughby, Vine Street, Los Angeles, CA 90038, United States of America",90038,62276
+68.0,34.0342,-118.3609,"5400 Apple Street, Los Angeles, CA 90016, United States of America",90016,18986
+63.0,34.0962,-118.338,"1400 North McCadden Place, Los Angeles, CA 90028, United States of America",90028,45151
+35.0,34.0944,-118.3277,"Crispy Crust, Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+21.0,33.7324,-118.2857,"398 West 13th Street, Los Angeles, CA 90731, United States of America",90731,54099
+61.0,34.1052,-118.3375,"1862 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+37.0,34.0981,-118.3022,"Mike Asatrayan DDS, West Sunset Boulevard, Los Angeles, CA 90029-2631, United States of America",90029,28714
+37.0,34.0981,-118.3022,"Mike Asatrayan DDS, West Sunset Boulevard, Los Angeles, CA 90029-2631, United States of America",90029,28714
+55.0,34.0944,-118.3386,"Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+62.0,34.098,-118.3425,"Days Inn Hollywood/Universal Studios, 7023 West Sunset Boulevard, Los Angeles, CA 90046-4101, United States of America",90046,39480
+72.0,34.0491,-118.3761,"La Cienega Boulevard, Los Angeles, CA 90064, United States of America",90064,55758
+41.0,34.1173,-118.3379,"Cahuenga Boulevard West, Los Angeles, CA 90068, United States of America",90068,2424
+76.0,34.0496,-118.3425,"4900 San Vicente Boulevard, Los Angeles, CA 90019, United States of America",90019,49310
+37.0,34.0981,-118.3022,"Mike Asatrayan DDS, West Sunset Boulevard, Los Angeles, CA 90029-2631, United States of America",90029,28714
+40.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+38.0,34.0871,-118.3321,"6350 Willoughby Avenue, Los Angeles, CA 90038, United States of America",90038,62276
+21.0,33.7324,-118.2857,"398 West 13th Street, Los Angeles, CA 90731, United States of America",90731,54099
+76.0,34.0496,-118.3425,"4900 San Vicente Boulevard, Los Angeles, CA 90019, United States of America",90019,49310
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+37.0,34.0981,-118.3022,"Mike Asatrayan DDS, West Sunset Boulevard, Los Angeles, CA 90029-2631, United States of America",90029,28714
+35.0,34.0944,-118.3277,"Crispy Crust, Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+24.0,33.7749,-118.2764,"Hawaiian Avenue STEAM Magnet Elementary School, Hawaiian Avenue, Dana Strand Village, Los Angeles, CA 90744-4522, United States of America",90744,23729
+54.0,34.0836,-118.3051,"701 North Hobart Boulevard, Los Angeles, CA 90029, United States of America",90029,28714
+39.0,34.0967,-118.3056,"Hobart Boulevard, Los Angeles, CA 90029-3737, United States of America",90029,28714
+52.0,34.0998,-118.3324,"Mama's rooftop, 6500 Selma Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+49.0,34.1347,-118.3427,"3481 Barham Boulevard, Los Angeles, CA 90068, United States of America",90068,2424
+62.0,34.098,-118.3425,"Days Inn Hollywood/Universal Studios, 7023 West Sunset Boulevard, Los Angeles, CA 90046-4101, United States of America",90046,39480
+49.0,34.1347,-118.3427,"3481 Barham Boulevard, Los Angeles, CA 90068, United States of America",90068,2424
+28.0,33.727,-118.2924,"South Gaffey Street, Los Angeles, CA 90731-4720, United States of America",90731,54099
+53.0,34.0907,-118.3332,"Sunset Las Palmas Studios, Seward Street, Los Angeles, CA 90038, United States of America",90038,62276
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+32.0,33.7352,-118.2923,"698 West 10th Street, Los Angeles, CA 90731, United States of America",90731,54099
+37.0,34.0981,-118.3022,"Mike Asatrayan DDS, West Sunset Boulevard, Los Angeles, CA 90029-2631, United States of America",90029,28714
+37.0,34.0981,-118.3022,"Mike Asatrayan DDS, West Sunset Boulevard, Los Angeles, CA 90029-2631, United States of America",90029,28714
+54.0,34.0836,-118.3051,"701 North Hobart Boulevard, Los Angeles, CA 90029, United States of America",90029,28714
+52.0,34.0998,-118.3324,"Mama's rooftop, 6500 Selma Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+40.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+34.0,34.0939,-118.3092,"La Mirada Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+40.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+65.0,34.0326,-118.2589,"1499 East 15th Street, Los Angeles, CA 90015, United States of America",90015,7005
+33.0,34.0928,-118.3109,"1200 Saint Andrew's Place, Los Angeles, CA 90038, United States of America",90038,62276
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+25.0,33.7907,-118.2729,"1401 North Ronan Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+28.0,33.727,-118.2924,"South Gaffey Street, Los Angeles, CA 90731-4720, United States of America",90731,54099
+34.0,34.0939,-118.3092,"La Mirada Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+29.0,33.7433,-118.2923,"699 West 1st Street, Los Angeles, CA 90731, United States of America",90731,54099
+50.0,34.1112,-118.3358,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+28.0,33.727,-118.2924,"South Gaffey Street, Los Angeles, CA 90731-4720, United States of America",90731,54099
+26.0,33.7315,-118.2814,"200 West 14th Street, Los Angeles, CA 90731, United States of America",90731,54099
+24.0,33.7749,-118.2764,"Hawaiian Avenue STEAM Magnet Elementary School, Hawaiian Avenue, Dana Strand Village, Los Angeles, CA 90744-4522, United States of America",90744,23729
+31.0,33.7909,-118.251,"1301 Sanford Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+67.0,34.0443,-118.3538,"1799 South Cochran Avenue, Los Angeles, CA 90019, United States of America",90019,49310
+27.0,33.7351,-118.2804,"1032 South Beacon Street, Los Angeles, CA 90731, United States of America",90731,54099
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+20.0,34.0211,-118.3089,"Western & 36th, South Western Avenue, Los Angeles, CA 90018, United States of America",90018,23768
+26.0,33.7315,-118.2814,"200 West 14th Street, Los Angeles, CA 90731, United States of America",90731,54099
+24.0,33.7749,-118.2764,"Hawaiian Avenue STEAM Magnet Elementary School, Hawaiian Avenue, Dana Strand Village, Los Angeles, CA 90744-4522, United States of America",90744,23729
+35.0,34.0944,-118.3277,"Crispy Crust, Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+28.0,33.727,-118.2924,"South Gaffey Street, Los Angeles, CA 90731-4720, United States of America",90731,54099
+66.0,34.044,-118.3263,"Venice & 12th, Venice Boulevard, Los Angeles, CA 90019, United States of America",90019,49310
+46.0,34.1016,-118.3414,"6922 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+24.0,33.7749,-118.2764,"Hawaiian Avenue STEAM Magnet Elementary School, Hawaiian Avenue, Dana Strand Village, Los Angeles, CA 90744-4522, United States of America",90744,23729
+43.0,34.098,-118.3303,"CNN, 6430 West Sunset Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+20.0,34.0211,-118.3089,"Western & 36th, South Western Avenue, Los Angeles, CA 90018, United States of America",90018,23768
+39.0,34.0967,-118.3056,"Hobart Boulevard, Los Angeles, CA 90029-3737, United States of America",90029,28714
+35.0,34.0944,-118.3277,"Crispy Crust, Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+27.0,33.7351,-118.2804,"1032 South Beacon Street, Los Angeles, CA 90731, United States of America",90731,54099
+46.0,34.1016,-118.3414,"6922 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+33.0,34.0928,-118.3109,"1200 Saint Andrew's Place, Los Angeles, CA 90038, United States of America",90038,62276
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+24.0,33.7749,-118.2764,"Hawaiian Avenue STEAM Magnet Elementary School, Hawaiian Avenue, Dana Strand Village, Los Angeles, CA 90744-4522, United States of America",90744,23729
+19.0,33.7894,-118.2936,"South Vermont Avenue, Harbor Pines, Los Angeles, CA 90710-2805, United States of America",90710,76615
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+57.0,34.0944,-118.3375,"1301 North McCadden Place, Los Angeles, CA 90028, United States of America",90028,45151
+42.0,34.1158,-118.3258,"6300 Weidlake Drive, Los Angeles, CA 90068, United States of America",90068,2424
+50.0,34.1112,-118.3358,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+39.0,34.0967,-118.3056,"Hobart Boulevard, Los Angeles, CA 90029-3737, United States of America",90029,28714
+84.0,34.0562,-118.3449,"La Brea Avenue, Los Angeles, CA 90019-2909, United States of America",90019,49310
+99.0,34.0594,-118.3793,"West Olympic Boulevard, Los Angeles, CA 90064, United States of America",90064,55758
+23.0,33.7806,-118.2507,"1003 East Anaheim Street, Los Angeles, CA 90744, United States of America",90744,23729
+37.0,34.0981,-118.3022,"Mike Asatrayan DDS, West Sunset Boulevard, Los Angeles, CA 90029-2631, United States of America",90029,28714
+32.0,33.7352,-118.2923,"698 West 10th Street, Los Angeles, CA 90731, United States of America",90731,54099
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+68.0,34.0342,-118.3609,"5400 Apple Street, Los Angeles, CA 90016, United States of America",90016,18986
+41.0,34.1173,-118.3379,"Cahuenga Boulevard West, Los Angeles, CA 90068, United States of America",90068,2424
+27.0,33.7351,-118.2804,"1032 South Beacon Street, Los Angeles, CA 90731, United States of America",90731,54099
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+26.0,33.7315,-118.2814,"200 West 14th Street, Los Angeles, CA 90731, United States of America",90731,54099
+27.0,33.7351,-118.2804,"1032 South Beacon Street, Los Angeles, CA 90731, United States of America",90731,54099
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+36.0,34.1034,-118.3325,"6577 Yucca Street, Los Angeles, CA 90028, United States of America",90028,45151
+36.0,34.1034,-118.3325,"6577 Yucca Street, Los Angeles, CA 90028, United States of America",90028,45151
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+66.0,34.044,-118.3263,"Venice & 12th, Venice Boulevard, Los Angeles, CA 90019, United States of America",90019,49310
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+43.0,34.098,-118.3303,"CNN, 6430 West Sunset Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+58.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+42.0,34.1158,-118.3258,"6300 Weidlake Drive, Los Angeles, CA 90068, United States of America",90068,2424
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+32.0,33.7352,-118.2923,"698 West 10th Street, Los Angeles, CA 90731, United States of America",90731,54099
+41.0,34.1173,-118.3379,"Cahuenga Boulevard West, Los Angeles, CA 90068, United States of America",90068,2424
+24.0,33.7749,-118.2764,"Hawaiian Avenue STEAM Magnet Elementary School, Hawaiian Avenue, Dana Strand Village, Los Angeles, CA 90744-4522, United States of America",90744,23729
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+28.0,33.727,-118.2924,"South Gaffey Street, Los Angeles, CA 90731-4720, United States of America",90731,54099
+36.0,34.1034,-118.3325,"6577 Yucca Street, Los Angeles, CA 90028, United States of America",90028,45151
+40.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+21.0,33.7324,-118.2857,"398 West 13th Street, Los Angeles, CA 90731, United States of America",90731,54099
+26.0,33.7315,-118.2814,"200 West 14th Street, Los Angeles, CA 90731, United States of America",90731,54099
+69.0,34.0735,-118.3571,"Television City, 7800 Beverly Boulevard, Los Angeles, CA 90036, United States of America",90036,28418
+67.0,34.0443,-118.3538,"1799 South Cochran Avenue, Los Angeles, CA 90019, United States of America",90019,49310
+26.0,33.7315,-118.2814,"200 West 14th Street, Los Angeles, CA 90731, United States of America",90731,54099
+67.0,34.0443,-118.3538,"1799 South Cochran Avenue, Los Angeles, CA 90019, United States of America",90019,49310
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+61.0,34.1052,-118.3375,"1862 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+99.0,34.0594,-118.3793,"West Olympic Boulevard, Los Angeles, CA 90064, United States of America",90064,55758
+24.0,33.7749,-118.2764,"Hawaiian Avenue STEAM Magnet Elementary School, Hawaiian Avenue, Dana Strand Village, Los Angeles, CA 90744-4522, United States of America",90744,23729
+51.0,34.1017,-118.318,"1701 Bronson Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+29.0,33.7433,-118.2923,"699 West 1st Street, Los Angeles, CA 90731, United States of America",90731,54099
+88.0,34.0645,-118.3651,"649 South Crescent Heights Boulevard, Los Angeles, CA 90048, United States of America",90048,48606
+21.0,33.7324,-118.2857,"398 West 13th Street, Los Angeles, CA 90731, United States of America",90731,54099
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+42.0,34.1158,-118.3258,"6300 Weidlake Drive, Los Angeles, CA 90068, United States of America",90068,2424
+90.0,34.0594,-118.3793,"West Olympic Boulevard, Los Angeles, CA 90064, United States of America",90064,55758
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+62.0,34.098,-118.3425,"Days Inn Hollywood/Universal Studios, 7023 West Sunset Boulevard, Los Angeles, CA 90046-4101, United States of America",90046,39480
+52.0,34.0998,-118.3324,"Mama's rooftop, 6500 Selma Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+33.0,34.0928,-118.3109,"1200 Saint Andrew's Place, Los Angeles, CA 90038, United States of America",90038,62276
+29.0,33.7433,-118.2923,"699 West 1st Street, Los Angeles, CA 90731, United States of America",90731,54099
+58.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+23.0,33.7806,-118.2507,"1003 East Anaheim Street, Los Angeles, CA 90744, United States of America",90744,23729
+44.0,34.1039,-118.3311,"Panda Express, Yucca Street, Los Angeles, CA 90028, United States of America",90028,45151
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+17.0,33.7306,-118.3012,"1501 South Leland Street, Los Angeles, CA 90731, United States of America",90731,54099
+47.0,34.0862,-118.3091,"Western Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+42.0,34.1158,-118.3258,"6300 Weidlake Drive, Los Angeles, CA 90068, United States of America",90068,2424
+34.0,34.0939,-118.3092,"La Mirada Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+73.0,34.0762,-118.3441,"Chevron, Beverly Boulevard, Los Angeles, CA 90036-2829, United States of America",90036,28418
+38.0,34.0871,-118.3321,"6350 Willoughby Avenue, Los Angeles, CA 90038, United States of America",90038,62276
+33.0,34.0928,-118.3109,"1200 Saint Andrew's Place, Los Angeles, CA 90038, United States of America",90038,62276
+46.0,34.1016,-118.3414,"6922 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+34.0,34.0939,-118.3092,"La Mirada Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+27.0,33.7351,-118.2804,"1032 South Beacon Street, Los Angeles, CA 90731, United States of America",90731,54099
+52.0,34.0998,-118.3324,"Mama's rooftop, 6500 Selma Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+42.0,34.1158,-118.3258,"6300 Weidlake Drive, Los Angeles, CA 90068, United States of America",90068,2424
+49.0,34.1347,-118.3427,"3481 Barham Boulevard, Los Angeles, CA 90068, United States of America",90068,2424
+29.0,33.7433,-118.2923,"699 West 1st Street, Los Angeles, CA 90731, United States of America",90731,54099
+40.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+31.0,33.7909,-118.251,"1301 Sanford Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+35.0,34.0944,-118.3277,"Crispy Crust, Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+77.0,34.1016,-118.3433,"1700 North Sycamore Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+31.0,33.7909,-118.251,"1301 Sanford Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+62.0,34.098,-118.3425,"Days Inn Hollywood/Universal Studios, 7023 West Sunset Boulevard, Los Angeles, CA 90046-4101, United States of America",90046,39480
+57.0,34.0944,-118.3375,"1301 North McCadden Place, Los Angeles, CA 90028, United States of America",90028,45151
+38.0,34.0871,-118.3321,"6350 Willoughby Avenue, Los Angeles, CA 90038, United States of America",90038,62276
+49.0,34.1347,-118.3427,"3481 Barham Boulevard, Los Angeles, CA 90068, United States of America",90068,2424
+31.0,33.7909,-118.251,"1301 Sanford Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+65.0,34.0326,-118.2589,"1499 East 15th Street, Los Angeles, CA 90015, United States of America",90015,7005
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+47.0,34.0862,-118.3091,"Western Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+19.0,33.7894,-118.2936,"South Vermont Avenue, Harbor Pines, Los Angeles, CA 90710-2805, United States of America",90710,76615
+16.0,33.7909,-118.251,"1301 Sanford Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+50.0,34.1112,-118.3358,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+48.0,34.0871,-118.3266,"Vine & Willoughby, Vine Street, Los Angeles, CA 90038, United States of America",90038,62276
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+46.0,34.1016,-118.3414,"6922 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+54.0,34.0836,-118.3051,"701 North Hobart Boulevard, Los Angeles, CA 90029, United States of America",90029,28714
+37.0,34.0981,-118.3022,"Mike Asatrayan DDS, West Sunset Boulevard, Los Angeles, CA 90029-2631, United States of America",90029,28714
+34.0,34.0939,-118.3092,"La Mirada Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+51.0,34.1017,-118.318,"1701 Bronson Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+52.0,34.0998,-118.3324,"Mama's rooftop, 6500 Selma Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+38.0,34.0871,-118.3321,"6350 Willoughby Avenue, Los Angeles, CA 90038, United States of America",90038,62276
+53.0,34.0907,-118.3332,"Sunset Las Palmas Studios, Seward Street, Los Angeles, CA 90038, United States of America",90038,62276
+43.0,34.098,-118.3303,"CNN, 6430 West Sunset Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+56.0,34.104,-118.3755,"8561 Oak Street, Los Angeles, CA 90046, United States of America",90046,39480
+53.0,34.0907,-118.3332,"Sunset Las Palmas Studios, Seward Street, Los Angeles, CA 90038, United States of America",90038,62276
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+27.0,33.7351,-118.2804,"1032 South Beacon Street, Los Angeles, CA 90731, United States of America",90731,54099
+47.0,34.0862,-118.3091,"Western Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+27.0,33.7351,-118.2804,"1032 South Beacon Street, Los Angeles, CA 90731, United States of America",90731,54099
+72.0,34.0491,-118.3761,"La Cienega Boulevard, Los Angeles, CA 90064, United States of America",90064,55758
+21.0,33.7324,-118.2857,"398 West 13th Street, Los Angeles, CA 90731, United States of America",90731,54099
+38.0,34.0871,-118.3321,"6350 Willoughby Avenue, Los Angeles, CA 90038, United States of America",90038,62276
+31.0,33.7909,-118.251,"1301 Sanford Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+57.0,34.0944,-118.3375,"1301 North McCadden Place, Los Angeles, CA 90028, United States of America",90028,45151
+25.0,33.7907,-118.2729,"1401 North Ronan Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+59.0,34.0981,-118.3158,"Denny's, Van Ness Avenue, Los Angeles, CA 90028-5420, United States of America",90028,45151
+23.0,33.7806,-118.2507,"1003 East Anaheim Street, Los Angeles, CA 90744, United States of America",90744,23729
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+31.0,33.7909,-118.251,"1301 Sanford Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+86.0,34.0753,-118.3858,"8899 Alden Drive, Los Angeles, CA 90048, United States of America",90048,48606
+37.0,34.0981,-118.3022,"Mike Asatrayan DDS, West Sunset Boulevard, Los Angeles, CA 90029-2631, United States of America",90029,28714
+31.0,33.7909,-118.251,"1301 Sanford Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+36.0,34.1034,-118.3325,"6577 Yucca Street, Los Angeles, CA 90028, United States of America",90028,45151
+45.0,34.1053,-118.318,"Oaks Gourmet Market, 1915 Bronson Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+40.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+54.0,34.0836,-118.3051,"701 North Hobart Boulevard, Los Angeles, CA 90029, United States of America",90029,28714
+54.0,34.0836,-118.3051,"701 North Hobart Boulevard, Los Angeles, CA 90029, United States of America",90029,28714
+39.0,34.0967,-118.3056,"Hobart Boulevard, Los Angeles, CA 90029-3737, United States of America",90029,28714
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+39.0,34.0967,-118.3056,"Hobart Boulevard, Los Angeles, CA 90029-3737, United States of America",90029,28714
+16.0,33.7909,-118.251,"1301 Sanford Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+37.0,34.0981,-118.3022,"Mike Asatrayan DDS, West Sunset Boulevard, Los Angeles, CA 90029-2631, United States of America",90029,28714
+34.0,34.0939,-118.3092,"La Mirada Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+45.0,34.1053,-118.318,"Oaks Gourmet Market, 1915 Bronson Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+38.0,34.0871,-118.3321,"6350 Willoughby Avenue, Los Angeles, CA 90038, United States of America",90038,62276
+34.0,34.0939,-118.3092,"La Mirada Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+45.0,34.1053,-118.318,"Oaks Gourmet Market, 1915 Bronson Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+29.0,33.7433,-118.2923,"699 West 1st Street, Los Angeles, CA 90731, United States of America",90731,54099
+41.0,34.1173,-118.3379,"Cahuenga Boulevard West, Los Angeles, CA 90068, United States of America",90068,2424
+25.0,33.7907,-118.2729,"1401 North Ronan Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+23.0,33.7806,-118.2507,"1003 East Anaheim Street, Los Angeles, CA 90744, United States of America",90744,23729
+37.0,34.0981,-118.3022,"Mike Asatrayan DDS, West Sunset Boulevard, Los Angeles, CA 90029-2631, United States of America",90029,28714
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+75.0,34.0762,-118.3511,"301 North Martel Avenue, Los Angeles, CA 90036, United States of America",90036,28418
+28.0,33.727,-118.2924,"South Gaffey Street, Los Angeles, CA 90731-4720, United States of America",90731,54099
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+51.0,34.1017,-118.318,"1701 Bronson Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+50.0,34.1112,-118.3358,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+38.0,34.0871,-118.3321,"6350 Willoughby Avenue, Los Angeles, CA 90038, United States of America",90038,62276
+54.0,34.0836,-118.3051,"701 North Hobart Boulevard, Los Angeles, CA 90029, United States of America",90029,28714
+50.0,34.1112,-118.3358,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+50.0,34.1112,-118.3358,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+34.0,34.0939,-118.3092,"La Mirada Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+45.0,34.1053,-118.318,"Oaks Gourmet Market, 1915 Bronson Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+26.0,33.7315,-118.2814,"200 West 14th Street, Los Angeles, CA 90731, United States of America",90731,54099
+64.0,34.1052,-118.3375,"1862 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+36.0,34.1034,-118.3325,"6577 Yucca Street, Los Angeles, CA 90028, United States of America",90028,45151
+50.0,34.1112,-118.3358,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+62.0,34.098,-118.3425,"Days Inn Hollywood/Universal Studios, 7023 West Sunset Boulevard, Los Angeles, CA 90046-4101, United States of America",90046,39480
+34.0,34.0939,-118.3092,"La Mirada Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+42.0,34.1158,-118.3258,"6300 Weidlake Drive, Los Angeles, CA 90068, United States of America",90068,2424
+53.0,34.0907,-118.3332,"Sunset Las Palmas Studios, Seward Street, Los Angeles, CA 90038, United States of America",90038,62276
+51.0,34.1017,-118.318,"1701 Bronson Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+49.0,34.1347,-118.3427,"3481 Barham Boulevard, Los Angeles, CA 90068, United States of America",90068,2424
+25.0,33.7907,-118.2729,"1401 North Ronan Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+46.0,34.1016,-118.3414,"6922 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+26.0,33.7315,-118.2814,"200 West 14th Street, Los Angeles, CA 90731, United States of America",90731,54099
+74.0,34.058,-118.3624,"6099 West Olympic Boulevard, Los Angeles, CA 90036, United States of America",90036,28418
+55.0,34.0944,-118.3386,"Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+44.0,34.1039,-118.3311,"Panda Express, Yucca Street, Los Angeles, CA 90028, United States of America",90028,45151
+32.0,33.7352,-118.2923,"698 West 10th Street, Los Angeles, CA 90731, United States of America",90731,54099
+28.0,33.727,-118.2924,"South Gaffey Street, Los Angeles, CA 90731-4720, United States of America",90731,54099
+19.0,33.7894,-118.2936,"South Vermont Avenue, Harbor Pines, Los Angeles, CA 90710-2805, United States of America",90710,76615
+27.0,33.7351,-118.2804,"1032 South Beacon Street, Los Angeles, CA 90731, United States of America",90731,54099
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+19.0,33.7894,-118.2936,"South Vermont Avenue, Harbor Pines, Los Angeles, CA 90710-2805, United States of America",90710,76615
+26.0,33.7315,-118.2814,"200 West 14th Street, Los Angeles, CA 90731, United States of America",90731,54099
+55.0,34.0944,-118.3386,"Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+26.0,33.7315,-118.2814,"200 West 14th Street, Los Angeles, CA 90731, United States of America",90731,54099
+27.0,33.7351,-118.2804,"1032 South Beacon Street, Los Angeles, CA 90731, United States of America",90731,54099
+41.0,34.1173,-118.3379,"Cahuenga Boulevard West, Los Angeles, CA 90068, United States of America",90068,2424
+57.0,34.0944,-118.3375,"1301 North McCadden Place, Los Angeles, CA 90028, United States of America",90028,45151
+46.0,34.1016,-118.3414,"6922 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+21.0,33.7324,-118.2857,"398 West 13th Street, Los Angeles, CA 90731, United States of America",90731,54099
+42.0,34.1158,-118.3258,"6300 Weidlake Drive, Los Angeles, CA 90068, United States of America",90068,2424
+61.0,34.1052,-118.3375,"1862 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+29.0,33.7433,-118.2923,"699 West 1st Street, Los Angeles, CA 90731, United States of America",90731,54099
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+24.0,33.7749,-118.2764,"Hawaiian Avenue STEAM Magnet Elementary School, Hawaiian Avenue, Dana Strand Village, Los Angeles, CA 90744-4522, United States of America",90744,23729
+27.0,33.7351,-118.2804,"1032 South Beacon Street, Los Angeles, CA 90731, United States of America",90731,54099
+62.0,34.098,-118.3425,"Days Inn Hollywood/Universal Studios, 7023 West Sunset Boulevard, Los Angeles, CA 90046-4101, United States of America",90046,39480
+19.0,33.7894,-118.2936,"South Vermont Avenue, Harbor Pines, Los Angeles, CA 90710-2805, United States of America",90710,76615
+31.0,33.7909,-118.251,"1301 Sanford Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+33.0,34.0928,-118.3109,"1200 Saint Andrew's Place, Los Angeles, CA 90038, United States of America",90038,62276
+24.0,33.7749,-118.2764,"Hawaiian Avenue STEAM Magnet Elementary School, Hawaiian Avenue, Dana Strand Village, Los Angeles, CA 90744-4522, United States of America",90744,23729
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+21.0,33.7324,-118.2857,"398 West 13th Street, Los Angeles, CA 90731, United States of America",90731,54099
+37.0,34.0981,-118.3022,"Mike Asatrayan DDS, West Sunset Boulevard, Los Angeles, CA 90029-2631, United States of America",90029,28714
+47.0,34.0862,-118.3091,"Western Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+57.0,34.0944,-118.3375,"1301 North McCadden Place, Los Angeles, CA 90028, United States of America",90028,45151
+41.0,34.1173,-118.3379,"Cahuenga Boulevard West, Los Angeles, CA 90068, United States of America",90068,2424
+33.0,34.0928,-118.3109,"1200 Saint Andrew's Place, Los Angeles, CA 90038, United States of America",90038,62276
+57.0,34.0944,-118.3375,"1301 North McCadden Place, Los Angeles, CA 90028, United States of America",90028,45151
+47.0,34.0862,-118.3091,"Western Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+50.0,34.1112,-118.3358,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+24.0,33.7749,-118.2764,"Hawaiian Avenue STEAM Magnet Elementary School, Hawaiian Avenue, Dana Strand Village, Los Angeles, CA 90744-4522, United States of America",90744,23729
+23.0,33.7806,-118.2507,"1003 East Anaheim Street, Los Angeles, CA 90744, United States of America",90744,23729
+40.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+19.0,33.7894,-118.2936,"South Vermont Avenue, Harbor Pines, Los Angeles, CA 90710-2805, United States of America",90710,76615
+58.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+71.0,34.1079,-118.3337,"2022 Grace Avenue, Los Angeles, CA 90068, United States of America",90068,2424
+27.0,33.7351,-118.2804,"1032 South Beacon Street, Los Angeles, CA 90731, United States of America",90731,54099
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+19.0,33.7894,-118.2936,"South Vermont Avenue, Harbor Pines, Los Angeles, CA 90710-2805, United States of America",90710,76615
+72.0,34.0491,-118.3761,"La Cienega Boulevard, Los Angeles, CA 90064, United States of America",90064,55758
+40.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+32.0,33.7352,-118.2923,"698 West 10th Street, Los Angeles, CA 90731, United States of America",90731,54099
+41.0,34.1173,-118.3379,"Cahuenga Boulevard West, Los Angeles, CA 90068, United States of America",90068,2424
+59.0,34.0981,-118.3158,"Denny's, Van Ness Avenue, Los Angeles, CA 90028-5420, United States of America",90028,45151
+67.0,34.0443,-118.3538,"1799 South Cochran Avenue, Los Angeles, CA 90019, United States of America",90019,49310
+28.0,33.727,-118.2924,"South Gaffey Street, Los Angeles, CA 90731-4720, United States of America",90731,54099
+44.0,34.1039,-118.3311,"Panda Express, Yucca Street, Los Angeles, CA 90028, United States of America",90028,45151
+75.0,34.0762,-118.3511,"301 North Martel Avenue, Los Angeles, CA 90036, United States of America",90036,28418
+55.0,34.0944,-118.3386,"Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+25.0,33.7907,-118.2729,"1401 North Ronan Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+35.0,34.0944,-118.3277,"Crispy Crust, Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+20.0,34.0211,-118.3089,"Western & 36th, South Western Avenue, Los Angeles, CA 90018, United States of America",90018,23768
+54.0,34.0836,-118.3051,"701 North Hobart Boulevard, Los Angeles, CA 90029, United States of America",90029,28714
+64.0,34.1052,-118.3375,"1862 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+61.0,34.1052,-118.3375,"1862 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+40.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+77.0,34.1016,-118.3433,"1700 North Sycamore Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+63.0,34.0962,-118.338,"1400 North McCadden Place, Los Angeles, CA 90028, United States of America",90028,45151
+24.0,33.7749,-118.2764,"Hawaiian Avenue STEAM Magnet Elementary School, Hawaiian Avenue, Dana Strand Village, Los Angeles, CA 90744-4522, United States of America",90744,23729
+25.0,33.7907,-118.2729,"1401 North Ronan Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+47.0,34.0862,-118.3091,"Western Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+44.0,34.1039,-118.3311,"Panda Express, Yucca Street, Los Angeles, CA 90028, United States of America",90028,45151
+31.0,33.7909,-118.251,"1301 Sanford Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+63.0,34.0962,-118.338,"1400 North McCadden Place, Los Angeles, CA 90028, United States of America",90028,45151
+55.0,34.0944,-118.3386,"Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+39.0,34.0967,-118.3056,"Hobart Boulevard, Los Angeles, CA 90029-3737, United States of America",90029,28714
+35.0,34.0944,-118.3277,"Crispy Crust, Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+67.0,34.0443,-118.3538,"1799 South Cochran Avenue, Los Angeles, CA 90019, United States of America",90019,49310
+39.0,34.0967,-118.3056,"Hobart Boulevard, Los Angeles, CA 90029-3737, United States of America",90029,28714
+39.0,34.0967,-118.3056,"Hobart Boulevard, Los Angeles, CA 90029-3737, United States of America",90029,28714
+61.0,34.1052,-118.3375,"1862 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+99.0,34.0594,-118.3793,"West Olympic Boulevard, Los Angeles, CA 90064, United States of America",90064,55758
+39.0,34.0967,-118.3056,"Hobart Boulevard, Los Angeles, CA 90029-3737, United States of America",90029,28714
+36.0,34.1034,-118.3325,"6577 Yucca Street, Los Angeles, CA 90028, United States of America",90028,45151
+28.0,33.727,-118.2924,"South Gaffey Street, Los Angeles, CA 90731-4720, United States of America",90731,54099
+70.0,34.0981,-118.3109,"GameStop, West Sunset Boulevard, Los Angeles, CA 90028-5420, United States of America",90028,45151
+70.0,34.0981,-118.3109,"GameStop, West Sunset Boulevard, Los Angeles, CA 90028-5420, United States of America",90028,45151
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+27.0,33.7351,-118.2804,"1032 South Beacon Street, Los Angeles, CA 90731, United States of America",90731,54099
+28.0,33.727,-118.2924,"South Gaffey Street, Los Angeles, CA 90731-4720, United States of America",90731,54099
+51.0,34.1017,-118.318,"1701 Bronson Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+36.0,34.1034,-118.3325,"6577 Yucca Street, Los Angeles, CA 90028, United States of America",90028,45151
+45.0,34.1053,-118.318,"Oaks Gourmet Market, 1915 Bronson Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+42.0,34.1158,-118.3258,"6300 Weidlake Drive, Los Angeles, CA 90068, United States of America",90068,2424
+16.0,33.7909,-118.251,"1301 Sanford Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+26.0,33.7315,-118.2814,"200 West 14th Street, Los Angeles, CA 90731, United States of America",90731,54099
+50.0,34.1112,-118.3358,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+45.0,34.1053,-118.318,"Oaks Gourmet Market, 1915 Bronson Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+37.0,34.0981,-118.3022,"Mike Asatrayan DDS, West Sunset Boulevard, Los Angeles, CA 90029-2631, United States of America",90029,28714
+35.0,34.0944,-118.3277,"Crispy Crust, Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+44.0,34.1039,-118.3311,"Panda Express, Yucca Street, Los Angeles, CA 90028, United States of America",90028,45151
+25.0,33.7907,-118.2729,"1401 North Ronan Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+67.0,34.0443,-118.3538,"1799 South Cochran Avenue, Los Angeles, CA 90019, United States of America",90019,49310
+27.0,33.7351,-118.2804,"1032 South Beacon Street, Los Angeles, CA 90731, United States of America",90731,54099
+21.0,33.7324,-118.2857,"398 West 13th Street, Los Angeles, CA 90731, United States of America",90731,54099
+31.0,33.7909,-118.251,"1301 Sanford Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+44.0,34.1039,-118.3311,"Panda Express, Yucca Street, Los Angeles, CA 90028, United States of America",90028,45151
+59.0,34.0981,-118.3158,"Denny's, Van Ness Avenue, Los Angeles, CA 90028-5420, United States of America",90028,45151
+33.0,34.0928,-118.3109,"1200 Saint Andrew's Place, Los Angeles, CA 90038, United States of America",90038,62276
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+74.0,34.058,-118.3624,"6099 West Olympic Boulevard, Los Angeles, CA 90036, United States of America",90036,28418
+73.0,34.0762,-118.3441,"Chevron, Beverly Boulevard, Los Angeles, CA 90036-2829, United States of America",90036,28418
+58.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+42.0,34.1158,-118.3258,"6300 Weidlake Drive, Los Angeles, CA 90068, United States of America",90068,2424
+50.0,34.1112,-118.3358,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+33.0,34.0928,-118.3109,"1200 Saint Andrew's Place, Los Angeles, CA 90038, United States of America",90038,62276
+33.0,34.0928,-118.3109,"1200 Saint Andrew's Place, Los Angeles, CA 90038, United States of America",90038,62276
+50.0,34.1112,-118.3358,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+50.0,34.1112,-118.3358,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+66.0,34.044,-118.3263,"Venice & 12th, Venice Boulevard, Los Angeles, CA 90019, United States of America",90019,49310
+45.0,34.1053,-118.318,"Oaks Gourmet Market, 1915 Bronson Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+35.0,34.0944,-118.3277,"Crispy Crust, Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+68.0,34.0342,-118.3609,"5400 Apple Street, Los Angeles, CA 90016, United States of America",90016,18986
+53.0,34.0907,-118.3332,"Sunset Las Palmas Studios, Seward Street, Los Angeles, CA 90038, United States of America",90038,62276
+27.0,33.7351,-118.2804,"1032 South Beacon Street, Los Angeles, CA 90731, United States of America",90731,54099
+28.0,33.727,-118.2924,"South Gaffey Street, Los Angeles, CA 90731-4720, United States of America",90731,54099
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+36.0,34.1034,-118.3325,"6577 Yucca Street, Los Angeles, CA 90028, United States of America",90028,45151
+77.0,34.1016,-118.3433,"1700 North Sycamore Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+31.0,33.7909,-118.251,"1301 Sanford Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+29.0,33.7433,-118.2923,"699 West 1st Street, Los Angeles, CA 90731, United States of America",90731,54099
+26.0,33.7315,-118.2814,"200 West 14th Street, Los Angeles, CA 90731, United States of America",90731,54099
+46.0,34.1016,-118.3414,"6922 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+46.0,34.1016,-118.3414,"6922 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+42.0,34.1158,-118.3258,"6300 Weidlake Drive, Los Angeles, CA 90068, United States of America",90068,2424
+29.0,33.7433,-118.2923,"699 West 1st Street, Los Angeles, CA 90731, United States of America",90731,54099
+69.0,34.0735,-118.3571,"Television City, 7800 Beverly Boulevard, Los Angeles, CA 90036, United States of America",90036,28418
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+52.0,34.0998,-118.3324,"Mama's rooftop, 6500 Selma Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+35.0,34.0944,-118.3277,"Crispy Crust, Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+32.0,33.7352,-118.2923,"698 West 10th Street, Los Angeles, CA 90731, United States of America",90731,54099
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+28.0,33.727,-118.2924,"South Gaffey Street, Los Angeles, CA 90731-4720, United States of America",90731,54099
+63.0,34.0962,-118.338,"1400 North McCadden Place, Los Angeles, CA 90028, United States of America",90028,45151
+33.0,34.0928,-118.3109,"1200 Saint Andrew's Place, Los Angeles, CA 90038, United States of America",90038,62276
+40.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+41.0,34.1173,-118.3379,"Cahuenga Boulevard West, Los Angeles, CA 90068, United States of America",90068,2424
+56.0,34.104,-118.3755,"8561 Oak Street, Los Angeles, CA 90046, United States of America",90046,39480
+23.0,33.7806,-118.2507,"1003 East Anaheim Street, Los Angeles, CA 90744, United States of America",90744,23729
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+60.0,34.1042,-118.3383,"1855 Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+34.0,34.0939,-118.3092,"La Mirada Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+58.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+40.0,34.1016,-118.3295,"6380 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+34.0,34.0939,-118.3092,"La Mirada Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+50.0,34.1112,-118.3358,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+62.0,34.098,-118.3425,"Days Inn Hollywood/Universal Studios, 7023 West Sunset Boulevard, Los Angeles, CA 90046-4101, United States of America",90046,39480
+59.0,34.0981,-118.3158,"Denny's, Van Ness Avenue, Los Angeles, CA 90028-5420, United States of America",90028,45151
+46.0,34.1016,-118.3414,"6922 Hollywood Boulevard, Los Angeles, CA 90028, United States of America",90028,45151
+35.0,34.0944,-118.3277,"Crispy Crust, Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+48.0,34.0871,-118.3266,"Vine & Willoughby, Vine Street, Los Angeles, CA 90038, United States of America",90038,62276
+25.0,33.7907,-118.2729,"1401 North Ronan Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+83.0,34.0761,-118.3563,"Beverly Boulevard, Los Angeles, CA 90036, United States of America",90036,28418
+28.0,33.727,-118.2924,"South Gaffey Street, Los Angeles, CA 90731-4720, United States of America",90731,54099
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+41.0,34.1173,-118.3379,"Cahuenga Boulevard West, Los Angeles, CA 90068, United States of America",90068,2424
+35.0,34.0944,-118.3277,"Crispy Crust, Fountain Avenue, Los Angeles, CA 90028-8127, United States of America",90028,45151
+37.0,34.0981,-118.3022,"Mike Asatrayan DDS, West Sunset Boulevard, Los Angeles, CA 90029-2631, United States of America",90029,28714
+18.0,33.8698,-118.2858,"601 West 182nd Street, Los Angeles, CA 90248, United States of America",90248,47487
+27.0,33.7351,-118.2804,"1032 South Beacon Street, Los Angeles, CA 90731, United States of America",90731,54099
+47.0,34.0862,-118.3091,"Western Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+62.0,34.098,-118.3425,"Days Inn Hollywood/Universal Studios, 7023 West Sunset Boulevard, Los Angeles, CA 90046-4101, United States of America",90046,39480
+34.0,34.0939,-118.3092,"La Mirada Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+99.0,34.0594,-118.3793,"West Olympic Boulevard, Los Angeles, CA 90064, United States of America",90064,55758
+30.0,33.7636,-118.2961,"2101 Barrywood Avenue, Los Angeles, CA 90731, United States of America",90731,54099
+26.0,33.7315,-118.2814,"200 West 14th Street, Los Angeles, CA 90731, United States of America",90731,54099
+44.0,34.1039,-118.3311,"Panda Express, Yucca Street, Los Angeles, CA 90028, United States of America",90028,45151
+22.0,34.1006,-118.3387,"Highland Avenue, Los Angeles, CA 90028, United States of America",90028,45151
+34.0,34.0939,-118.3092,"La Mirada Avenue, Los Angeles, CA 90029-3737, United States of America",90029,28714
+15.0,33.7538,-118.2905,"West Channel Street, Los Angeles, CA 90731-1422, United States of America",90731,54099
+99.0,34.0594,-118.3793,"West Olympic Boulevard, Los Angeles, CA 90064, United States of America",90064,55758
+20.0,34.0211,-118.3089,"Western & 36th, South Western Avenue, Los Angeles, CA 90018, United States of America",90018,23768
+26.0,33.7315,-118.2814,"200 West 14th Street, Los Angeles, CA 90731, United States of America",90731,54099
+20.0,34.0211,-118.3089,"Western & 36th, South Western Avenue, Los Angeles, CA 90018, United States of America",90018,23768
+31.0,33.7909,-118.251,"1301 Sanford Avenue, Los Angeles, CA 90744, United States of America",90744,23729
+33.0,34.0928,-118.3109,"1200 Saint Andrew's Place, Los Angeles, CA 90038, United States of America",90038,62276
